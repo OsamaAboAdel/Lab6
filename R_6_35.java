@@ -1,9 +1,8 @@
-package Assignments.Lab6;
 
 import java.util.Stack;
 
 /**
- * Created by Asseel Alazazi on 24/2/2022.
+ * Created by ${*  Osama Abo Adel  *} on 1/2/2022.
  */
 
  // Java program to evaluate value of a postfix expression
